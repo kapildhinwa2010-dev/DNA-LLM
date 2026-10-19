@@ -224,6 +224,7 @@ All our trained DNA checkpoints and generated 1B models are hosted on Google Dri
 | 🌌 **Extended DNA (1B)** | Expanded DNA initialized with proven patterns. | ~1 MB | [⬇️ Download](https://drive.google.com/file/d/1USdL33KtGQDNLiY4RZvUF5q6ItMtGyYU/view?usp=drivesdk) |
 | 🧊 **Generated 1B Model** | The fully expanded & frozen 1B parameter model. | **3.75 GB** | [⬇️ Download](https://drive.google.com/file/d/1eiAjn9LFsN1uI4LTToaHcDyGMNiCLE_f/view?usp=drivesdk) |
 | 📊 **Model Metadata** | Detailed stats, compression ratios, and logs. | ~2 KB | [⬇️ Download](https://drive.google.com/file/d/166neIxkZ-fprz81aUJmSMyLZ27Eq0pAH/view?usp=drivesdk) |
+scroll
 
 ---
 
